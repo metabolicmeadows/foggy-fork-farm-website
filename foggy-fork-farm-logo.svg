@@ -1,0 +1,14 @@
+<svg viewBox="0 0 260 56" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(0,4)" fill="#6B7A3A">
+    <ellipse cx="22" cy="30" rx="13" ry="9" />
+    <circle cx="37" cy="22" r="7" />
+    <ellipse cx="42" cy="18" rx="3" ry="5" transform="rotate(15,42,18)" />
+    <rect x="27" y="37" width="3" height="9" rx="1.5" />
+    <rect x="13" y="37" width="3" height="9" rx="1.5" />
+    <path d="M34 16 Q31 10 29 8" stroke="#6B7A3A" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M37 15 Q36 9 35 7" stroke="#6B7A3A" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M10 28 Q6 24 8 20" stroke="#6B7A3A" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="56" y="26" font-family="Anton, sans-serif" font-size="22" fill="#2C1F14" letter-spacing="1">FOGGY FORK</text>
+  <text x="56" y="48" font-family="Anton, sans-serif" font-size="22" fill="#6B7A3A" letter-spacing="1">FARM</text>
+</svg>
